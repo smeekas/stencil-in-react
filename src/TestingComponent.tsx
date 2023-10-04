@@ -9,7 +9,6 @@ import {
   
   defineCustomElements();
   
-  import React from "react";
   import { MyCheckboxCustomEvent, MyInputCustomEvent, MySliderCustomEvent } from "stencilss";
   
   function TestinComponent() {
